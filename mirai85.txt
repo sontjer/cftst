@@ -4,7 +4,6 @@ npmhk.mirai85.cf
 share.mirai85.cf
 rss.mirai85.cf
 mrdoc.mirai85.cf
-pando.mirai85.cf
 dup.mirai85.cf
 gh.mirai85.cf
 gpt.mirai85.cf
