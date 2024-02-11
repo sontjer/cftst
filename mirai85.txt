@@ -8,3 +8,15 @@ dup.sontjer.top
 gh.sontjer.top
 gpt.sontjer.top
 sr.sontjer.top
+opn.sontjer.top
+xhportainer_cf.sontjer.top
+xhssh.sontjer.top
+nas2_cf.sontjer.top
+nas1_cf.sontjer.top
+pve_cf.sontjer.top
+dashy_cf.sontjer.top
+xhopn_cf.sontjer.top
+jyportainer_cf.sontjer.top
+jyssh.sontjer.top
+jyesxi_cf.sontjer.top
+jyopn_cf.sontjer.top
