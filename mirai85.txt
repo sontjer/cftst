@@ -19,6 +19,7 @@ nas2.sontjer.top
 dashy.sontjer.top
 ha.sontjer.top
 opn.sontjer.top
+sing.sontjer.top
 xhportainer_cf.sontjer.top
 xhssh.sontjer.top
 nas2_cf.sontjer.top
